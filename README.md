@@ -11,13 +11,13 @@
 
 ## Introduction
 기존의 [neural font](https://github.com/periannath/neural-fonts)를 업그레이드 하였다.
-'''
+```
 전처리 + 후처리를 통해 성능을 향상,
 
 399자에서 288자로 줄여도 비슷한 결과물이 나올 수 있도록 수정,
 
 Python3 환경에서 학습될 수 있도록 바꾸었다. (original neural font는 python2, tensorflow 1버전을 사용하여 Colab에서 학습시키기에 어려움이 있다.)
-'''
+```
 
 
 ## How to use
